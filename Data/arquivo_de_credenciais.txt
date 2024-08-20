@@ -1,0 +1,6 @@
+#exemple meuservidor.prtg.com.br
+core.prtg.com 
+#exemple robert.johnson
+your.user 
+#exemple 12345689
+yourpasshash 
